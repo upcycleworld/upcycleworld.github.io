@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://zachholman.com/left/posts/draft</loc>
+<loc>upcycle.world/posts/draft</loc>
 <lastmod>2014-02-25T00:00:00-06:00</lastmod>
 </url>
 <url>
-<loc>https://zachholman.com/left/posts/left</loc>
+<loc>upcycle.world/posts/left</loc>
 <lastmod>2012-12-12T00:00:00-06:00</lastmod>
 </url>
 <url>
-<loc>https://zachholman.com/left/404</loc>
+<loc>upcycle.world/404</loc>
 </url>
 <url>
-<loc>https://zachholman.com/left/about</loc>
+<loc>upcycle.world/about</loc>
 </url>
 <url>
-<loc>https://zachholman.com/left/</loc>
+<loc>upcycle.world/</loc>
 </url>
 </urlset>

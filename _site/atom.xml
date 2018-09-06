@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
- <title>Zach Holman</title>
- <link href="https://zachholman.com/left/atom.xml" rel="self"/>
- <link href="https://zachholman.com/left/"/>
- <updated>2018-09-06T08:18:41-05:00</updated>
- <id>https://zachholman.com/left</id>
+ <title>Chris Correll</title>
+ <link href="upcycle.world/atom.xml" rel="self"/>
+ <link href="upcycle.world/"/>
+ <updated>2018-09-06T08:50:53-05:00</updated>
+ <id>upcycle.world</id>
  <author>
-   <name>Zach Holman</name>
+   <name>Chris Correll</name>
  </author>
  
  
@@ -16,9 +16,9 @@
    
    <entry>
      <title>Left</title>
-     <link href="https://zachholman.com/left/posts/left"/>
+     <link href="upcycle.world/posts/left"/>
      <updated>2012-12-12T00:00:00-06:00</updated>
-     <id>https://zachholman.com/left/posts/left</id>
+     <id>upcycle.world/posts/left</id>
      <content type="html">&lt;p&gt;Left is a clean, whitespace-happy layout for &lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;Jekyll&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;This is designed to be an easy layout to modify for your own blog. It was
