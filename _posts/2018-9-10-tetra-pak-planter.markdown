@@ -5,7 +5,7 @@ category: posts
 ---
 Tetra Pak's are the waxed containers that half gallons of milk usually come in. Where I live they do not accept them for recycling which is fine because they are way more fun to upcycle! In this guide I will show you how to turn those tetra paks into a tetra planter! 
 
-##Materials
+## Materials
 ![Materials]
 ({{ site.github.url }}/images/post1/materials.png)
 
@@ -15,7 +15,7 @@ For this project you will need:
 * 8x wire ties (I get mine from kale bundles)
 * t-shirt hemming (and scrap fabric or rope will do)
 
-##Tools
+## Tools
 ![Tools]
 ({{ site.github.url }}/images/post1/tools.png)
 
@@ -23,7 +23,7 @@ For this project you will need:
 * box cutter (optional)
 * hole punch (optional)
 
-##Steps
+## Steps
 ![Steps]
 ({{ site.github.url }}/images/post1/steps.png)
 
@@ -45,3 +45,5 @@ For this project you will need:
 * Start with the base and two adjacent sides.
 5. Tie on your t-shirt ropes.
 6. Enjoy your upcycled hanging planter!
+
+There you have it your very own tetra planter. Stay tuned next week to see what we will do with those left over tetra pak pieces.
