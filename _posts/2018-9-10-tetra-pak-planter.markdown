@@ -6,8 +6,7 @@ category: posts
 Tetra Pak's are the waxed containers that half gallons of milk usually come in. Where I live they do not accept them for recycling which is fine because they are way more fun to upcycle! In this guide I will show you how to turn those tetra paks into a tetra planter! 
 
 ## Materials
-![Materials]
-(https://github.com/upcycleworld/upcycleworld.github.io/images/post1/materials.png)
+![Materials](https://github.com/upcycleworld/upcycleworld.github.io/images/post1/materials.png)
 
 For this project you will need:
 * 5x washed out and mostly liquid free tetra paks
@@ -16,16 +15,14 @@ For this project you will need:
 * t-shirt hemming (and scrap fabric or rope will do)
 
 ## Tools
-![Tools]
-(https://github.com/upcycleworld/upcycleworld.github.io/images/post1/tools.png)
+![Tools](https://github.com/upcycleworld/upcycleworld.github.io/images/post1/tools.png)
 
 * sharp scissors or snips 
 * box cutter (optional)
 * hole punch (optional)
 
 ## Steps
-![Steps]
-(https://github.com/upcycleworld/upcycleworld.github.io/images/post1/steps.png)
+![Steps](https://github.com/upcycleworld/upcycleworld.github.io/images/post1/steps.png)
 
 1. Cut off the tops of your tetra paks make them as staight and as flush as possible. 
 * I recommend cutting the shorter end first and then working your way around the perimeter.
