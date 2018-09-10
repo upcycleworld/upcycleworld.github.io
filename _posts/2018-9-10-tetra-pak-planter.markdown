@@ -7,7 +7,7 @@ Tetra Pak's are the waxed containers that half gallons of milk usually come in. 
 
 ## Materials
 ![Materials]
-(./images/post1/materials.png)
+(https://github.com/upcycleworld/upcycleworld.github.io/images/post1/materials.png)
 
 For this project you will need:
 * 5x washed out and mostly liquid free tetra paks
@@ -17,7 +17,7 @@ For this project you will need:
 
 ## Tools
 ![Tools]
-({{ site.github.url }}/images/post1/tools.png)
+(https://github.com/upcycleworld/upcycleworld.github.io/images/post1/tools.png)
 
 * sharp scissors or snips 
 * box cutter (optional)
@@ -25,7 +25,7 @@ For this project you will need:
 
 ## Steps
 ![Steps]
-({{ site.github.url }}/images/post1/steps.png)
+(https://github.com/upcycleworld/upcycleworld.github.io/images/post1/steps.png)
 
 1. Cut off the tops of your tetra paks make them as staight and as flush as possible. 
 * I recommend cutting the shorter end first and then working your way around the perimeter.
