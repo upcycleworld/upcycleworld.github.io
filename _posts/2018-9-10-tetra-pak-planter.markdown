@@ -7,7 +7,7 @@ Tetra Pak's are the waxed containers that half gallons of milk usually come in. 
 
 ## Materials
 ![Materials]
-({{ site.github.url }}/images/post1/materials.png)
+(./images/post1/materials.png)
 
 For this project you will need:
 * 5x washed out and mostly liquid free tetra paks
