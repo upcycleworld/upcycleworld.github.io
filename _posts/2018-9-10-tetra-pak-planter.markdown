@@ -4,6 +4,7 @@ title: Tetra Pak Planter
 category: posts
 ---
 Tetra Pak's are the waxed containers that half gallons of milk usually come in. Where I live they do not accept them for recycling which is fine because they are way more fun to upcycle! In this guide I will show you how to turn those tetra paks into a tetra planter! 
+![Finished image](https://upcycleworld.github.io/images/post1/finished.png)]
 
 ## Materials
 ![Materials](https://upcycleworld.github.io/images/post1/materials.png)
@@ -43,4 +44,4 @@ For this project you will need:
 5. Tie on your t-shirt ropes.
 6. Enjoy your upcycled hanging planter!
 
-There you have it your very own tetra planter. Stay tuned next week to see what we will do with those left over tetra pak pieces.
+There you have it your very own tetra planter. This planter works best if you put your plant into a small container (say a plastic bottle or slightly smaller tetra pak cut in half with holes in the bottom) and then into the hanging planter, as opposed to adding soil directly in the planter. Stay tuned next week to see what we will do with those left over tetra pak pieces.
