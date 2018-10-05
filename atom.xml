@@ -25,4 +25,15 @@ layout: null
    {% endunless %}
  {% endfor %}
  
+ {% for notebook in site.notebook %}
+   {% unless notebook.draft %}
+   <entry>
+     <title>{{ notebook.title }}</title>
+     <link href="{{ site.url }}{{ notebook.url }}"/>
+     <updated>{{ notebook.date | date_to_xmlschema }}</updated>
+     <id>{{ site.url }}{{ notebook.id }}</id>
+     <content type="html">{{ notebook.content | xml_escape }}</content>
+   </entry>
+   {% endunless %}
+ {% endfor %}
 </feed>
