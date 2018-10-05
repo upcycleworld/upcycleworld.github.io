@@ -16,3 +16,14 @@ title: "Posts"
     {% endfor %}
   </ul>
 </section>
+<section class="content">
+  <ul class="listing">
+    {% for notebook in site.notebook %}
+      {% unless notebook.draft %}
+      <li>
+        <span>{{ notebook.date | date: "%B %e, %Y" }}</span> <a href="{{ notebook.url }}">{{ notebook.title }}</a>
+      </li>
+      {% endunless %}
+    {% endfor %}
+  </ul>
+</section>
