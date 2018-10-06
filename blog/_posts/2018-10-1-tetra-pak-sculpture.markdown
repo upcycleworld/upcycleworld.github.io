@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tetra Pak Sculpter
-category: posts
+category: blog
 ---
 Last month we made a pretty groovy tetra pak hanging planter from the tops of milk cartons! Today we are going to see what we can make with the bottoms of the tetra paks! 
 ![Finished image](https://upcycleworld.github.io/images/post2/finished.png)

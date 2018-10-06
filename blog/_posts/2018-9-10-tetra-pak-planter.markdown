@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tetra Pak Planter
-category: posts
+category: blog 
 ---
 Tetra Pak's are the waxed containers that half gallons of milk usually come in. Where I live they do not accept them for recycling which is fine because they are way more fun to upcycle! In this guide I will show you how to turn those tetra paks into a tetra planter! 
 ![Finished image](https://upcycleworld.github.io/images/post1/finished.png)
