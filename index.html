@@ -15,12 +15,4 @@ category: posts
       {% endunless %}
     {% endfor %}
   </ul>
-    {% for notebook in site.notebooks %}
-      {% unless notebook.draft %}
-      <li>
-        <span>{{ notebook.date | date: "%B %e, %Y" }}</span> <a href="{{ post.url }}">{{ notebook.title }}</a>
-      </li>
-      {% endunless %}
-    {% endfor %}
-  </ul>
 </section>
