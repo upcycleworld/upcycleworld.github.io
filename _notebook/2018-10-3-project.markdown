@@ -1,7 +1,0 @@
----
-layout: notebook
-title: Tetra Pak Sculpter
-category: notebook
----
-## Steps
-![Steps](https://upcycleworld.github.io/images/post2/steps.png)
