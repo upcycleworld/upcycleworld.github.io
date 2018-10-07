@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Laser Cutting live plants
+title: Laser Cutting Live Plants
 category: work
 ---
 Okay so I am working on some crazy shit right now. I got it in my head to laser cut some live plants. I am really just bored of the vines, just kidding I could never get bored of plants, but seriously, I can't find anyone else who has been crazy enough to try it so I am giving it a go, for science.
