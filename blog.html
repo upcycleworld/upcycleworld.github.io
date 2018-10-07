@@ -1,0 +1,17 @@
+---
+layout: layout
+title: "Blog"
+---
+
+<!-- You can edit this whole page, remove it, or use it as basis for any non-post pages you have. -->
+<section class="content">
+  <h1>{{ site.name }}</h1>
+  {% for post in site.posts %}
+    {% if post.categories contains 'blog' %}
+      <div class="post">
+          <h3 class="title"><a href="{{ post.url }}">{{ post.title }}</a></h3>
+          <p class="meta">Date: {{ post.date }}</p>
+      </div>
+    {% endif %}
+  {% endfor %}
+</section>
