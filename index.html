@@ -8,7 +8,7 @@ category: posts
 <section class="content">
   <ul class="listing">
     {% for category in site.categories %}
-    {% for post in site.posts %}
+    {% for post in site.categories[category_name] %}
       {% unless post.draft %}
       <li>
         <span>{{ post.date | date: "%B %e, %Y" }}</span> <a href="{{ post.url }}">{{ post.title }}</a>
