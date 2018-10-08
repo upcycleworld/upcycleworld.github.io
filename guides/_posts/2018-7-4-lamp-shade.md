@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sardine Tin and Cocktail umbrella Lampshade
+title: Sardine and Cocktail Lampshade
 category: blog
 ---
 intro text
