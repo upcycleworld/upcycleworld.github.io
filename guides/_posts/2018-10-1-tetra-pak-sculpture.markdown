@@ -4,10 +4,10 @@ title: Tetra Pak Sculpter
 category: blog
 ---
 Last month we made a pretty groovy tetra pak hanging planter from the tops of milk cartons! Today we are going to see what we can make with the bottoms of the tetra paks! 
-![Finished image](https://upcycleworld.github.io/images/post2/finished.png)
+![Finished image](https://upcycleworld.github.io/images/sculpture/finished.png)
 
 ## Materials
-![Materials](https://upcycleworld.github.io/images/post2/materials.png)
+![Materials](https://upcycleworld.github.io/images/sculpture/materials.png)
 
 For this project you will need the folowing materials:
 * Six tetra pak milk cartons
@@ -15,7 +15,7 @@ For this project you will need the folowing materials:
 * A piece of string
 
 ## Tools
-![Tools](https://upcycleworld.github.io/images/post2/tools.png)
+![Tools](https://upcycleworld.github.io/images/sculpture/tools.png)
 
 For this project you will need the folowing tools:
 * Xacto knife or scissors 
@@ -26,7 +26,7 @@ For this project you will need the folowing tools:
 * Side cutters (optional but useful)
 
 ## Steps
-![Steps](https://upcycleworld.github.io/images/post2/steps.png)
+![Steps](https://upcycleworld.github.io/images/sculpture/steps.png)
 1. Cut down the edge of your containers.
 * Use the exacto knife or scissors your finished project should look like the first picture.
 2. Cut each side to look like a triangle.
