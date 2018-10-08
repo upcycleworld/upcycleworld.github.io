@@ -5,15 +5,15 @@ category: posts
 <head> 
   <meta name="p:domain_verify" content="4d6a27a954506f9217e605b79086389c"/>
 </head>
-<h1>{{ site.name }}</h1>
 <section class="content">
-  <ul class="listing">
-    {% for post in site.posts %}
-      {% unless post.draft %}
-      <li>
-        <span>{{ post.date | date: "%B %e, %Y" }}</span> <a href="{{ post.url }}">{{ post.title }}</a>
-      </li>
-      {% endunless %}
-    {% endfor %}
-  </ul>
+  <h1>{{ site.name }}</h1>
+    <ul class="listing">
+      {% for post in site.posts %}
+        {% unless post.draft %}
+        <li>
+          <span>{{ post.date | date: "%B %e, %Y" }}</span> <a href="{{ post.url }}">{{ post.title }}</a>
+        </li>
+        {% endunless %}
+      {% endfor %}
+    </ul>
 </section>
