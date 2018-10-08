@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Setting up an Accessible Maker Space  
-category: drafts
+category: draft
 ---
 intro text
 ![Finished image](https://upcycleworld.github.io/images/post1/finished.png)
