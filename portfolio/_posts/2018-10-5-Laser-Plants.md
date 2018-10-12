@@ -18,5 +18,5 @@ It was around 6pm on Friday and I was anxious to get home so I didn't bother lin
 ## The Aftermath
 I immediately transfered the vine back to the upcycled wine bottle vase I had kidnapped it from and booked it out of the office. When I got home I noticed the vine looked pretty sad, but the third leaf only looked somewhat upset.
 ![Sad Plant](https://upcycleworld.github.io/images/laserplants/sadplant.JPG)
-Next week I am gonna give it a go with a lower power. I should have realized less is obviously more with this sort of thing, but its a lesson I learned so your plant won't have to. Hoping the little guy stays with it!
+In the upcoming weeks I am gonna give it a go with a lower power. I should have realized less is obviously more with this sort of thing, but its a lesson I learned so your plant won't have to. Hoping the little guy stays with it!
 

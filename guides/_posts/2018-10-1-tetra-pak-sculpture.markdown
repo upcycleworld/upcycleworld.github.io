@@ -26,7 +26,7 @@ For this project you will need the folowing tools:
 * Side cutters (optional but useful)
 
 ## Steps
-![Steps](https://upcycleworld.github.io/images/sculpture/steps.png)
+![Steps](https://upcycleworld.github.io/images/sculpture/steps.jpg)
 1. Cut down the edge of your containers.
 * Use the exacto knife or scissors your finished project should look like the first picture.
 2. Cut each side to look like a triangle.
