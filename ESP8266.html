@@ -6,19 +6,19 @@ title: "IoT"
 <!-- You can edit this whole page, remove it, or use it as basis for any non-post pages you have. -->
 <section class="content">
   <h1>{{ site.name }}</h1>
-<form>
+<form id="frm1">
 Hue: <input type="text" name="hue" value=""><br>
-Intensity: <input type="text" name="V" value=""><br>
-<input type="submit" onclick="writeData(document.getElementById('hue').value)"  value="Submit">
+<!--Intensity: <input type="text" name="V" value=""><br>-->
+<input type="submit" onclick="writeData()" value="Submit">
 </form>
 </section>
 <script>
-function writeData(hue) {
-    var hueObject = {
-        hue: hue
-    };
-
-    firebase.database().ref('hue').set(hueObject)
+function writeData() {
+  var x = document.getElementById("frm1");
+  var i;
+  for (i = 0; i < x.length ;i++) {
+    firebase.database().ref('hue').set(x.elements[i].value);
+  }
         .then(function(snapshot) {
             success(); // some success method
         }, function(error) {
