@@ -9,7 +9,7 @@ title: "IoT"
 <form id="hue">
 Hue: <input type="text" name="hue" value=""><br>
 Intensity: <input type="text" name="V" value=""><br>
-<input type="submit" onclick="writeData(hue)"  value="Submit">
+<input type="submit" onclick="writeData(document.getElementById('hue').value)"  value="Submit">
 </form>
 </section>
 <script>
