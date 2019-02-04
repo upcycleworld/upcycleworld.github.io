@@ -6,6 +6,8 @@ title: "IoT"
 <!-- You can edit this whole page, remove it, or use it as basis for any non-post pages you have. -->
 <head> 
 <script src="https://www.gstatic.com/firebasejs/5.8.2/firebase.js"></script>
+<script src="https://www.gstatic.com/firebasejs/5.8.2/firebase-auth.js"></script>
+<script src="https://www.gstatic.com/firebasejs/5.8.2/firebase-database.js"></script>
 <script>
   // Initialize Firebase
   var config = {
@@ -19,15 +21,6 @@ title: "IoT"
   firebase.initializeApp(config);
 </script>
   <meta name="p:domain_verify" content="4d6a27a954506f9217e605b79086389c"/>
-</head>
-<section class="content">
-  <h1>{{ site.name }}</h1>
-<form id="frm1">
-Hue: <input type="text" name="hue" value=""><br>
-<!--Intensity: <input type="text" name="V" value=""><br>-->
-<input type="submit" onclick="writeData()" value="Submit">
-</form>
-</section>
 <script>
 function writeData() {
   var x = document.getElementById("frm1");
@@ -43,3 +36,12 @@ function writeData() {
   }
 }
 </script>
+</head>
+<section class="content">
+  <h1>{{ site.name }}</h1>
+<form id="frm1">
+Hue: <input type="text" name="hue" value=""><br>
+<!--Intensity: <input type="text" name="V" value=""><br>-->
+<input type="submit" onclick="writeData()" value="Submit">
+</form>
+</section>
