@@ -1,6 +1,13 @@
-// Your JavaScript
-<script src="https://www.gstatic.com/firebasejs/5.8.2/firebase.js"></script>
-  // Initialize Firebase
+  // Firebase App is always required and must be first
+var firebase = require("firebase/app");
+
+// Add additional services that you want to use
+require("firebase/auth");
+require("firebase/database");
+
+// Comment out (or don't require) services that you don't want to use
+// require("firebase/storage");
+firebase.initializeApp(config);// Initialize Firebase
   var config = {
     apiKey: "AIzaSyCe2pvhR-B-VvVJwE3ufx2Jj5uevMnQpEw",
     authDomain: "smart-table-fd493.firebaseapp.com",
@@ -10,6 +17,7 @@
     messagingSenderId: "651777956215"
   };
   firebase.initializeApp(config);
+
 function writeData() {
   var x = document.getElementById("frm1");
   var i;
@@ -23,4 +31,3 @@ function writeData() {
         });
   }
 }
-

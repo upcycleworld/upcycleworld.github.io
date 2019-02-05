@@ -4,39 +4,6 @@ title: "IoT"
 ---
 
 <!-- You can edit this whole page, remove it, or use it as basis for any non-post pages you have. -->
-<head> 
-<script src="https://www.gstatic.com/firebasejs/5.8.2/firebase.js"></script>
-<script src="https://www.gstatic.com/firebasejs/5.8.2/firebase-auth.js"></script>
-<script src="https://www.gstatic.com/firebasejs/5.8.2/firebase-database.js"></script>
-<script>
-  // Initialize Firebase
-  var config = {
-    apiKey: "AIzaSyCe2pvhR-B-VvVJwE3ufx2Jj5uevMnQpEw",
-    authDomain: "smart-table-fd493.firebaseapp.com",
-    databaseURL: "https://smart-table-fd493.firebaseio.com",
-    projectId: "smart-table-fd493",
-    storageBucket: "smart-table-fd493.appspot.com",
-    messagingSenderId: "651777956215"
-  };
-  firebase.initializeApp(config);
-</script>
-  <meta name="p:domain_verify" content="4d6a27a954506f9217e605b79086389c"/>
-<script>
-function writeData() {
-  var x = document.getElementById("frm1");
-  var i;
-  for (i = 0; i < x.length ;i++) {
-    firebase.database().ref('hue').set(x.elements[i].value);
-        then(function(snapshot) {
-            success(); // some success method
-        }, function(error) {
-            console.log('error' + error);
-            error(); // some error method
-        });
-  }
-}
-</script>
-</head>
 <section class="content">
   <h1>{{ site.name }}</h1>
 <form id="frm1">
