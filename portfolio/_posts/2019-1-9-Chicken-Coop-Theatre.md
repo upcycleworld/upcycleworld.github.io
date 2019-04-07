@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Light table
+title: Chicken Coop Theatre
 category: work
 ---
 # Chicken Coop theatre
