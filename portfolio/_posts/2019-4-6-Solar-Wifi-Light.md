@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Solar Gardn Light (now with WiFi!)
+title: Solar Garden Light (now with WiFi!)
 category: work
 ---
 # WiFi Enable Solar Garden Light

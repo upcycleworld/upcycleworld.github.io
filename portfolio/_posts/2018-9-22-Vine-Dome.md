@@ -2,7 +2,6 @@
 layout: post
 title: Flower Dome 
 category: work
-![Group Photo!](https://upcycleworld.github.io/images/dome/Dome.jpg)
 ---
 # Interactive vine dome 
 ![dome'n!](https://upcycleworld.github.io/images/dome/Dome.jpg)
