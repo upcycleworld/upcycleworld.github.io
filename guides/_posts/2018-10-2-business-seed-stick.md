@@ -4,7 +4,7 @@ title: Business Seed Stick
 category: blog
 ---
 So we had our first event at interactive nature (check out our website if you haven't already [interactivenature.art](https://interactivenature.art "Interactive Nature Homepage")) and we needed a way to get our name out to attendees and considering the fact that I find business cards repulsive and a utter waste of reasources I though I would do something a little more "conscious" and thus was born business seed sticks! Plant em, gift em, heck even rebrand em just don't let it sit in your wallet or drawer for years until you trash it. 
-![Finished image](https://upcycleworld.github.io/images/seedstick/finished.png)
+![Finished image](https://upcycleworld.github.io/images/seedstick/finished.jpg)
 
 ## Materials
 
@@ -17,7 +17,7 @@ For this project you will need the folowing materials:
 * Seeds!
 
 ## Tools
-![Tools](https://upcycleworld.github.io/images/seedstick/tools.png)
+![Tools](https://upcycleworld.github.io/images/seedstick/tools.jpg)
 
 For this project you will need the folowing tools:
 * Paint brush
@@ -25,7 +25,7 @@ For this project you will need the folowing tools:
 * Laser Cutter or custom stamp (optional)
 
 ## Steps
-![Steps](https://upcycleworld.github.io/images/seedstick/steps.png)
+![Steps](https://upcycleworld.github.io/images/seedstick/steps.jpg)
 1. Laser cut your materials. 
 * If you went with balsa wood try to get a piece that is about as thick as a popsicle stick. 
 * If you do not have access to a laser cutter try getting a custom stamp ordered online just make sure it fits on your popsicle stick!

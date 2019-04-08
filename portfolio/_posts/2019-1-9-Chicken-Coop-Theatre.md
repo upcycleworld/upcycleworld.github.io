@@ -8,11 +8,11 @@ category: work
 
 The Chicken Coop Theatre is a theatre I built in my back yard. Along with my roomates and friends I have put on one show, though we have more planned for the future! 
 
-![Stage](https://upcycleworld.github.io/images/cct/stage.jpg)
+![Stage](https://upcycleworld.github.io/images/cct/stage.JPG) 
 
 The stage, lighting, sets, and costumes are made from all recycled materials.
 
-![Show](https://upcycleworld.github.io/images/cct/stage.jpg)
+![Show](https://upcycleworld.github.io/images/cct/show.jpg)
 
 The first show at the Chicken Coop Theatre was an adult adaptation of a popular kids show.
 

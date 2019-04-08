@@ -5,7 +5,7 @@ category: blog
 ---
 
 So I am on a tetra pak kick right now. I really like the triangular shape that I made doing the tetra pak sculpture, but I thought I would change things up a bit and string them together. The result s a tetra pak tea light holder. Hang one or hang 7! Just be careful I am not sure how well the waxed paper holds up with a tea light in it long term...
-![Finished image](https://upcycleworld.github.io/images/tealight/finished.png)
+![Finished image](https://upcycleworld.github.io/images/tealight/finished.JPG)
 
 ## Materials
 ![Materials](https://upcycleworld.github.io/images/tealight/materials.png)
