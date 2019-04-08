@@ -10,13 +10,15 @@ The flower dome is an ongrowing project that uses capacitive touch sensors (MPR1
 
 ## Panel 
 ![panel](https://upcycleworld.github.io/images/dome/chickens.jpg)
-The panels used to build the dome and one of my chickens!
+
+The panels used to build the dome and my chickens!
 
 ## Consturction!
 ![build'n](https://upcycleworld.github.io/images/dome/domen.jpg)
 
 ## Vine covered dome
 ![vinedome](https://upcycleworld.github.io/images/dome/vinedome.jpg)
+
 The flower dome began as a vine dome but the vines were taken out by winter freezes :(
 
 ## Touch sensor
